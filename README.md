@@ -10,3 +10,7 @@ A Pytorch-Version for DREAM-Net. Some details are different from the original pa
 Please cite the following references:
 1. TorchRadon: Fast Differentiable Routines for Computed Tomography
 2. DREAM-Net: Deep Residual Error iterAtive Minimization Network for Sparse-View CT Reconstruction
+
+Note: The authors do not have permission to share the data.
+1. The data can be requested from https://www.cancerimagingarchive.net/collection/ldct-and-projection-data/.
+2. The toolbox Helix2Fan (https://github.com/faebstn96/helix2fan) can be used to rebin spiral CT projections to fan-beam projections.
